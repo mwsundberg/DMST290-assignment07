@@ -1,9 +1,9 @@
 .menu li{
 	display: inline-block;
 	text-decoration: none;
-	border: 3px solid #00FFFF;
+	border: 3px solid black;
 	border-style: outset;
-	padding: 2px;
+	/*padding: 2px;*/
 	background-color: #FFFFFF;
 	color: #000000;
 }
